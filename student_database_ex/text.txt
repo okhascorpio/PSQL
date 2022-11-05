@@ -1,0 +1,3 @@
+login to postgres Database
+psql --username=freecodecamp --dbname=postgres 
+--- where dbname=students
